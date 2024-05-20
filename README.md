@@ -1,3 +1,8 @@
+<!-- Image -->
+<p align="center">
+	<img src="https://github.com/Dark-X369/DARK-X/blob/main/Dark.jpg" width="650px" height="300px">
+</p>
+
 
 ## INSTALLATION [TERMUX] :
 
@@ -11,13 +16,11 @@
 * `bash install.sh`
 * `exit`
   
-<br />
 ## REMOVE COMMAND :
 
 * `cd DARK-X`
 * `bash rvt.sh`
 
-<br />
 ## BANNER CUSTOMIZE ;
 
 If you want to customize and use it yourself, then watch our Telegram video. i ll add channel link here. -my Telegram group link [[Customize-Banner]](https://t.me/Dark_X369/17)
