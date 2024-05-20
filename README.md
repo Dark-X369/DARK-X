@@ -2,8 +2,7 @@
 
 <p align="center">
 
-<p align="center">Dark Banner<b> 3D banner text</b> to your shell script, comes with
-</p>
+<p align="center">Dark Banner<b> 3D banner text</b> to your shell script, comes with <b><code>TERMUX</code></p>
 
 
 
