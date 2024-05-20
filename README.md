@@ -1,6 +1,4 @@
 
-
-<br />
 ## INSTALLATION [TERMUX] :
 
 * `apt update`
