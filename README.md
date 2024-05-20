@@ -1,9 +1,8 @@
 
 
-
+<br />
 ## INSTALLATION [TERMUX] :
 
-```bash
 * `apt update`
 * `apt upgrade -y`
 * `pkg install git`
@@ -13,14 +12,13 @@
 * `chmod +x *`
 * `bash install.sh`
 * `exit`
-```  
-
+  
+<br />
 ## REMOVE COMMAND :
 
-```bash
 * `cd DARK-X`
 * `bash rvt.sh`
-```
+
 <br />
 ## BANNER CUSTOMIZE ;
 
