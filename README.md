@@ -2,12 +2,12 @@
 
 <p align="center">
 
-<p align="center">BannerBash is a library provides <b>large 3D banner text</b> to your shell script, comes with
+<p align="center">Dark Banner<b> 3D banner text</b> to your shell script, comes with
 </p>
 
 
 
-## INSTALLATION [TERMUX] :
+## INSTALL WITH TERMUX :
 
 * `apt update`
 * `apt upgrade -y`
