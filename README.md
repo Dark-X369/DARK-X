@@ -1,7 +1,6 @@
-<!-- Image -->
+<h2 align="center"> <img src="https://github.com/Dark-X369/DARK-X/blob/main/Dark.jpg" width="470" /> </h2>
+
 <p align="center">
-	<img src="https://github.com/Dark-X369/DARK-X/blob/main/Dark.jpg" width="650px" height="300px">
-</p>
 
 
 ## INSTALLATION [TERMUX] :
