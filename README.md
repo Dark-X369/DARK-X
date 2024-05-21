@@ -12,6 +12,7 @@
 * `apt upgrade -y`
 * `pkg install git`
 * `pkg install mpv -y`
+* `pkg install lolcat`
 * `git clone https://github.com/Dark-X369/DARK-X`
 * `cd DARK-X`
 * `chmod +x *`
