@@ -35,6 +35,7 @@ apt upgrade
 pip install lolcat
 pkg install mpv -y
 pkg install figlet -y
+pkg install fish -y
 cp bash.bashrc $PREFIX/etc
 clear
 echo "
